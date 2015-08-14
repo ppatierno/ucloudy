@@ -1,5 +1,7 @@
 # uCloudy
 
+![](images/cloudy.jpg)
+
 uCloudy - Cloud services client library for .Net Micro Framework
 
 *Project Description*
