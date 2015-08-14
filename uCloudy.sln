@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uCloudyNetMf43", "uCloudy\uCloudyNetMf43.csproj", "{EA920A86-FC99-4E9F-9583-94ACD11EFCFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uCloudyNetMf42", "uCloudy\uCloudyNetMf42.csproj", "{99A5F17B-D236-47D1-84B5-B42CED4715FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA920A86-FC99-4E9F-9583-94ACD11EFCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA920A86-FC99-4E9F-9583-94ACD11EFCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA920A86-FC99-4E9F-9583-94ACD11EFCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA920A86-FC99-4E9F-9583-94ACD11EFCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A5F17B-D236-47D1-84B5-B42CED4715FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A5F17B-D236-47D1-84B5-B42CED4715FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A5F17B-D236-47D1-84B5-B42CED4715FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A5F17B-D236-47D1-84B5-B42CED4715FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
